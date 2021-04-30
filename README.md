@@ -1,1 +1,1 @@
-# SentimentAnalysis_AmazonReviews
+# Sentiment Analysis with Amazon Reviews
